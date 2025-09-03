@@ -1,4 +1,5 @@
 **ESD – Debug Monitor for 8051**
+
 **📌 Project Overview**
 
 This project implements a Debug Monitor for the AT89C51RC2 microcontroller, designed as part of Embedded Systems Development. The monitor provides real-time debugging features, allowing developers to step through code, inspect registers, and validate memory contents.
